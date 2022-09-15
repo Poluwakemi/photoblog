@@ -1,0 +1,62 @@
+img {
+    width: 30%;
+    align-items: stretch;
+}
+
+img:hover {
+    color: rgb(255, 228, 196, 0.5);
+}
+
+h1 {
+    text-align: center;
+}
+
+#firstrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#secondrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#thirdrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#fourthrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#fifthrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#sixthrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#seventhrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#eighthrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#ninthrow {
+    display: flex;
+    justify-content: space-between;
+}
+
+#tenthrow {
+    display: flex;
+    justify-content: space-between;
+}
